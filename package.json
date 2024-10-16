@@ -1,0 +1,18 @@
+{
+  "name": "avaliacao3",
+  "version": "1.0.0",
+  "description": "API de gerenciamento de vagas de emprego",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.1",
+    "pg": "^8.13.0",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.37.4"
+  },
+  "author": "João Sturmer",
+  "license": "ISC"
+}
